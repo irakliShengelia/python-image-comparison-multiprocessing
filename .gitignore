@@ -1,0 +1,7 @@
+analyzed/*
+parsed/*
+raw/*
+test/*
+mergeCsv.py
+*.xlsx
+*.csv
